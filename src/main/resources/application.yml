@@ -1,0 +1,10 @@
+
+userProfile:
+  identityTypes:
+    - Employee
+    - Partner
+    - Customer
+    - Supplier
+    - Vendor
+    - Temporary
+    - Lite user
